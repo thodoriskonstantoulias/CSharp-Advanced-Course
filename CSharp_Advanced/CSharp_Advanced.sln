@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{9C1D4BE7-5049-459A-816D-02D303E804E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_Expressions", "Lambda_Expressions\Lambda_Expressions.csproj", "{700B280A-56F9-498E-8A93-31973CD63506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda_Expressions", "Lambda_Expressions\Lambda_Expressions.csproj", "{700B280A-56F9-498E-8A93-31973CD63506}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{A5136205-BC33-48D1-AF2C-410F1C0D29CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{A5136205-BC33-48D1-AF2C-410F1C0D29CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Methods", "Extension_Methods\Extension_Methods.csproj", "{0C034C1C-46B1-41B3-B091-A404F42AE639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension_Methods", "Extension_Methods\Extension_Methods.csproj", "{0C034C1C-46B1-41B3-B091-A404F42AE639}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CC735C7D-B70E-436D-8AB5-A856326D976A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{CC735C7D-B70E-436D-8AB5-A856326D976A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nulls", "Nulls\Nulls.csproj", "{5E3132CE-136A-4752-882C-C91322AC4F9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CC735C7D-B70E-436D-8AB5-A856326D976A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC735C7D-B70E-436D-8AB5-A856326D976A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC735C7D-B70E-436D-8AB5-A856326D976A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3132CE-136A-4752-882C-C91322AC4F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3132CE-136A-4752-882C-C91322AC4F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3132CE-136A-4752-882C-C91322AC4F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3132CE-136A-4752-882C-C91322AC4F9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
